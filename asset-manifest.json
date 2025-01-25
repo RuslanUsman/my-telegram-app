@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/my-telegram-app/static/css/main.ad3076de.css",
-    "main.js": "/my-telegram-app/static/js/main.8ee4fe0f.js",
-    "static/js/488.4c52f544.chunk.js": "/my-telegram-app/static/js/488.4c52f544.chunk.js",
-    "static/media/fonresultat.jpg": "/my-telegram-app/static/media/fonresultat.b064071e590023d1bdd1.jpg",
-    "static/media/fonmenu.jpg": "/my-telegram-app/static/media/fonmenu.5523a626217e6931ee14.jpg",
-    "index.html": "/my-telegram-app/index.html",
-    "main.ad3076de.css.map": "/my-telegram-app/static/css/main.ad3076de.css.map",
-    "main.8ee4fe0f.js.map": "/my-telegram-app/static/js/main.8ee4fe0f.js.map",
-    "488.4c52f544.chunk.js.map": "/my-telegram-app/static/js/488.4c52f544.chunk.js.map"
+    "main.css": "/testlios/static/css/main.7a6b9ab8.css",
+    "main.js": "/testlios/static/js/main.161c4eb7.js",
+    "static/js/488.4c52f544.chunk.js": "/testlios/static/js/488.4c52f544.chunk.js",
+    "static/media/fonresultat.jpg": "/testlios/static/media/fonresultat.b064071e590023d1bdd1.jpg",
+    "static/media/fonmenu.jpg": "/testlios/static/media/fonmenu.5523a626217e6931ee14.jpg",
+    "index.html": "/testlios/index.html",
+    "main.7a6b9ab8.css.map": "/testlios/static/css/main.7a6b9ab8.css.map",
+    "main.161c4eb7.js.map": "/testlios/static/js/main.161c4eb7.js.map",
+    "488.4c52f544.chunk.js.map": "/testlios/static/js/488.4c52f544.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad3076de.css",
-    "static/js/main.8ee4fe0f.js"
+    "static/css/main.7a6b9ab8.css",
+    "static/js/main.161c4eb7.js"
   ]
 }
